@@ -107,7 +107,23 @@ section{
     color: white;
     justify-content: center;
     background-color: #ff702a;
-    width: 250px;
-    margin-left: 600px;
+    width: 210px;
+    margin-left: 650px;
     margin-top: 30px;
+}
+.mncom{
+    display: flex;
+    margin-top: 35px;
+    justify-content:center ;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2.5em;
+    color:#ff702a;
+    
+}
+.h3{
+    display: flex;
+    margin-top: 35px;
+    font-size: 2.5rem;
+    justify-content: center;
+    color: white  ;
 }
