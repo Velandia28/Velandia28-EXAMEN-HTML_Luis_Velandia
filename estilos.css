@@ -98,6 +98,16 @@ section{
 .IH1{
     display: flex;
     position: relative;
-    bottom: 50%;
+    bottom: 350px;
     margin-bottom: 20px;
+}
+.btm1{
+    display:flex;
+    font-size: 1.2em;
+    color: white;
+    justify-content: center;
+    background-color: #ff702a;
+    width: 250px;
+    margin-left: 600px;
+    margin-top: 30px;
 }
