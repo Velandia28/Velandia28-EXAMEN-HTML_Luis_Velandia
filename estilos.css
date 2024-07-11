@@ -1,0 +1,103 @@
+*{
+    padding: 0;
+    margin: 0;;
+}
+body{
+    background-color: #1e1d2b;
+
+}
+header{
+    display: inline-flex;
+}
+section{
+    border:#ff702a solid;
+}
+.divhead{
+    display: fixed;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: 1.2em ;
+    color:white;
+    padding: 20%;
+}
+.menu{
+    font-size: 1.2em ;
+    color:white;
+    display: flex;
+    justify-content:center;
+    align-content:center;
+    margin-left: 90%;
+}
+.nav1{
+    border:#ff702a solid;
+}
+.titulo{
+    color: #ff702a;
+    display: flex;
+    align-content: center;
+    justify-content: left;
+    margin-left: 20%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+}
+.texto1{
+    color: rgb(255, 255, 255);
+    margin-left: 20%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.3rem;
+}
+.imagenrefi{
+    display:inline-block;
+    align-items: center;
+}
+.btm{
+    display: inline-flex;
+    font-size: 1.2em;
+    color: white;
+    justify-content: center;
+    background-color: #ff702a;
+    width: 250px;
+    margin-bottom: 180px;
+}
+.img1{
+    margin-left: 280px;
+    width: 30vw;
+    height:20vw;
+}
+.titulo1{
+    justify-content: center;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.hsomos{
+    display: flex;
+    margin-top: 100px;
+    justify-content: center;
+    font-size: 3em;
+    color:#ff702a;
+}
+.img12{
+    display: flex;
+    margin-top: 5px;
+    margin-left: 50px;   
+}
+.textoder{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 35%;
+    height: auto;
+    font-size: 1.5rem;
+}
+.p2{
+    display: flex;
+    position: relative;
+    margin-top: 70px;
+    left: 600px;
+}
+.IH1{
+    display: flex;
+    position: relative;
+    bottom: 50%;
+    margin-bottom: 20px;
+}
