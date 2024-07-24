@@ -8,3 +8,6 @@ En el desarrollo se requeria una pagina responsive para el requerimiento princip
 # como por ejemplo 
 
 ![iamgen](img-20240711T163033Z-001/img/about.png)
+
+> [!IMPORTANT]  
+> Esto es información importante:  El desarrollo de esta pagina conto con un tiempo limite para su desarrollo y una rubrica de calificacion la cual fue compartida previamente.
