@@ -5,6 +5,6 @@
 
 En el desarrollo se requeria una pagina responsive para el requerimiento principal de la pagina, debe llevar unas imagenes previamente seleccionadas las cuales se iban a colocar a lo largo del desarrollo de la pagina
 
-como por ejemplo 
+# como por ejemplo 
 
 ![iamgen](img-20240711T163033Z-001/img/about.png)
